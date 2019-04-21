@@ -1,2 +1,2 @@
 # BookList
-appes6 with classes, localStorage https://juliettkhar.github.io/BookList/
+appes6.js with classes, localStorage https://juliettkhar.github.io/BookList/
